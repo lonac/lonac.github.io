@@ -1,9 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-}
-head{
-          background-color: powderblue;
+      background-color: powderblue;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
